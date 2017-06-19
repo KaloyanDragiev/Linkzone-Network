@@ -1,0 +1,6 @@
+[04-Mar-2016 06:18:02 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/dragie1/public_html/includes/User.php:25
+Stack trace:
+#0 /home/dragie1/public_html/includes/User.php(25): PDO->__construct('CONNECTION_STRI...', 'dragie1_dragiev', 'kaloqn1234')
+#1 /home/dragie1/public_html/includes/receiver.php(11): User->login(Array)
+#2 {main}
+  thrown in /home/dragie1/public_html/includes/User.php on line 25
