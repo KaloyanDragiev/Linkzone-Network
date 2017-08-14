@@ -6,4 +6,4 @@
 
  **Technologies:**  HTML, CSS, JavaScript, AJAX, PHP, MySQL, jQuery 
  
- ###### Star this repository if you find it useful! :thumbsup: :smile:
+ ###### Star this repository if you find it useful! :thumbsup: :smile: 
